@@ -1,0 +1,25 @@
+{
+  "name": "Weather-App-in-NodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glokesh94/Weather-App-in-NodeJS.git"
+  },
+  "author": "brandon morelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glokesh94/Weather-App-in-NodeJS/issues"
+  },
+  "homepage": "https://github.com/glokesh94/Weather-App-in-NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.17.1",
+    "request": "^2.81.0"
+  }
+}
