@@ -19,7 +19,7 @@
   "homepage": "https://github.com/glokesh94/Weather-App-in-NodeJS#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "request": "^2.81.0"
   }
 }
